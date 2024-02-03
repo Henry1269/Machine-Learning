@@ -9,7 +9,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
 
 
-**NYC OPEN DATA 2017 Yellow Taxi Trip Data. **
+**NYC OPEN DATA 2017 Yellow Taxi Trip Data**
 
 This dataset includes trip records from all trips completed in yellow taxis from in NYC during 2017. Records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab Passenger Enhancement Program (TPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data.
 
